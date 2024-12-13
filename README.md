@@ -1,3 +1,3 @@
-##Profile
+Profile
 ---
 Site is live at:
