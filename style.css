@@ -389,21 +389,25 @@ nav .fa-solid{
         background: linear-gradient(135deg, #ee9b00, #fbe4b4, #fff8e1);
         text-align: center;
     }
-    .header-image {
-        display: block;
-        margin: 0 auto 20px;
-        max-width: 150px;
-    }
-    .header-image img {
-        width: 100%;
-        border-radius: 10px;
-    }
     .header-text {
         font-size: 16px;
         margin-top: 10px;
     }
     .header-text h1 {
         font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .header-text h1 span {
+        color: rgb(223, 114, 19);
+    }
+    .header-image {
+        display: block;
+        margin: 0 auto;
+        max-width: 150px; /* Adjust size for smaller screens */
+    }
+    .header-image img {
+        width: 100%;
+        border-radius: 10px; /* Optional: Rounded corners */
     }
     nav .fa-solid{
         display: block;
