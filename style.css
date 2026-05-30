@@ -20,13 +20,13 @@ body{
 
 .header-image {
     position: absolute;
-    top: 180px; /* Adjust as needed */
-    right: 10px; /* Adjust as needed */
-    max-width: 400px; /* Control size */
+    top: 70px; /* Adjust as needed */
+    right: 950px; /* Adjust as needed */
+    max-width: 250px; /* Control size */
 }
 
 .header-image img {
-    width:100%;
+    width:700%;
     border-radius: 10px; /* Optional */
 }
 
