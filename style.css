@@ -20,13 +20,13 @@ body{
 
 .header-image {
     position: absolute;
-    top: 70px; /* Adjust as needed */
-    right: 950px; /* Adjust as needed */
-    max-width: 250px; /* Control size */
+    top: 180px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+    max-width: 400px; /* Control size */
 }
 
 .header-image img {
-    width:700%;
+    width:100%;
     border-radius: 10px; /* Optional */
 }
 
@@ -77,11 +77,11 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
 }
-.header-text h1{
+.header-text h2{
     font-size: 60px;
     margin-top: 20px;
 }
-.header-text h1 span{
+.header-text h2 span{
     color:rgb(223, 114, 19);
 }
 
@@ -370,7 +370,7 @@ form .btn2{
     width: 100%;
     text-align: center;
     padding:25px 0;
-    background: #262626;
+    background: #fcffff00;
     font-weight: 300;
     margin-top: 20px;
 }
